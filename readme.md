@@ -4,7 +4,8 @@
 ### [3. 产品简介](./content/3_Description.md)
 ### [4. 产品架构](./content/4_Structure.md)
 ### [5. 详细功能说明](./content/5_Function.md)
-- 功能列表
+- 商家入驻
+
 ### [6. 非功能需求](./content/6_NotFunction.md)
 - 性能需求
 - 系统需求
