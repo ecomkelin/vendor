@@ -11,7 +11,7 @@
 
   本文档主要面向以下读者：该项目的研发、测试人员、产品经理、市场运营人员
 - [2.3 专业术语](./content/2_3_Terminology.md)
-- [2.4 API 接口数据](./content/2_3_Terminology.md)
+- [2.4 API 接口数据](./content/2_4_API.md)
 
 ### 3. 产品简介
 - 3.1 产品定位
